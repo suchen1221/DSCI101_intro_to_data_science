@@ -25,17 +25,39 @@ In this course, students will engage in experiential learning where they will le
 | Weekly Module | Topics | Video Lecture | Slides | Code Demo | Assignment |
 |:----------|:------------------------------|:----------|:----------|:----------|:----------|
 |1. Introduction  | <ul><li>what is data science</li> <li>data science pipeline</li></ul>  <ul><li>ethics in data science</li></ul> | xxx | xxx | xxx | xxx |
-|2. Data and Questions   | xxx | xxx |xxx | xxx | xxx |
-|3. Introduction to Python | xxx | xxx | xxx | xxx | xxx |
-|4. Python Pandas I | xxx |xxx | xxx | xxx | xxx | xxx |
-|5. Python Pandas II | xxx |xxx |xxx | xxx | xxx | xxx |
-|6. Data Visualization | xxx |xxx |xxx | xxx | xxx | xxx |
-|7. Exploratory Data Analysis | xxx |xxx | xxx | xxx | xxx |
-|8. Midterm Exam| xxx |xxx |xxx | xxx | xxx |
-|9. Probability and Statistics | xxx | xxx | xxx | xxx | xxx |
-|10. Hypothesis Testing | xxx | xxx | xxx | xxx | xxx |
-|11. Correlation and Linear Regression | xxx | xxx | xxx | xxx | xxx |
-|12. Introduction to Machine Learning | xxx | xxx | xxx | xxx | xxx |
-|13. Decision Trees and Random Forest | xxx | xxx | xxx | xxx | xxx |
-|14. Unsupervised Learning | xxx | xxx | xxx | xxx | xxx |
-|15. Final Exam | xxx | xxx | xxx | xxx | xxx |
+|2. Data and Questions   | <ul><li>Three types of questions that can be answered by data and data science<ul><li> <ul><li>where is data from: observational study vs. experiment<ul><li> | xxx |xxx | xxx | xxx |
+|3. Introduction to Python | <ul><li>tabular data and dataframe in Python<ul><li>
+<ul><li>data type and basic programming in Python<ul><li> | xxx | xxx | xxx | xxx |
+|4. Python Pandas I | <ul><li>import data from different sources<ul><li>
+<ul><li>categorical and numerical variables<ul><li> <ul><li>select, filter, sort, mutate a dataframe<ul><li>|xxx | xxx | xxx | xxx | xxx |
+|5. Python Pandas II | <ul><li>group by and pivot table<ul><li> <ul><li>summary statistics<ul><li> <ul><li>handle missing values<ul><li> <ul><li>join dataframes<ul><li>
+ |xxx |xxx | xxx | xxx | xxx |
+|6. Data Visualization | <ul><li>basic plots for different variables<ul><li>
+<ul><li>principles and examples of data visualization<ul><li>
+<ul><li>advanced visualization tools<ul><li>
+ |xxx |xxx | xxx | xxx | xxx |
+|7. Exploratory Data Analysis | <ul><li>EDA concepts and techniques<ul><li>
+<ul><li>EDA case study<ul><li> |xxx | xxx | xxx | xxx |
+|8. Midterm Exam| <ul><li> Midterm review and buff time!<ul><li> | xxx |xxx | xxx | xxx |
+|9. Probability and Statistics | <ul><li> basic probability rules<ul><li> 
+<ul><li> random variables<ul><li> 
+<ul><li> simulation based inference<ul><li> 
+<ul><li> point estimate vs. interval estimate<ul><li> |  |  |  |  |
+|10. Hypothesis Testing | <ul><li> General framework<ul><li> 
+<ul><li> one sample test<ul><li> 
+<ul><li> permutation test (A/B testing)<ul><li> 
+<ul><li> p-values as error probability<ul><li> 
+ | xxx | xxx | xxx | xxx |
+|11. Correlation and Linear Regression | <ul><li>correlation coefficient<ul><li>
+<ul><li>linear regression and least square<ul><li>
+<ul><li>multiple linear regression<ul><li>
+<ul><li>logistic regression<ul><li>| xxx | xxx | xxx | xxx |
+|12. Introduction to Machine Learning | <ul><li>K-Nearest Neighbor algorithm<ul><li>
+<ul><li>model selection and trade-off<ul><li>
+<ul><li>model validation and assessment<ul><li> | xxx | xxx | xxx | xxx |
+|13. Decision Trees and Random Forest |  <ul><li>decision tree for classification <ul><li>
+ <ul><li>decision tree for regression <ul><li>
+ <ul><li>model ensemble and random forest <ul><li> | xxx | xxx | xxx | xxx |
+|14. Unsupervised Learning |  <ul><li>dimensionality reduction Principal Component Analysis <ul><li> 
+ <ul><li>Clustering algorithm Kmeans <ul><li> | xxx | xxx | xxx | xxx |
+|15. Final Exam | <ul><li> Final review and buff time!<ul><li> | | xxx | xxx | xxx | xxx |
