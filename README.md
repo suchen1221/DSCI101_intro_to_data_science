@@ -22,7 +22,7 @@ In this course, students will engage in experiential learning where they will le
 
 ## COURSE SCHEDULE AND MATERIAL
 | Weekly Module | Topics | Video Lecture | Slides | Code Demo | Assignment |
-|:-------|:------|:----------|:---------|:-----------|:-----------|
+|:-------|:--------------------|:----------|:---------|:-----------|:-----------|
 |1. Introduction  | <ul><li>what is data science</li> <li>data science pipeline</li></ul>  <ul><li>ethics in data science</li></ul> | xxx | xxx | xxx | xxx |
 |2. Data and Questions   | xxx | xxx |xxx | xxx | xxx |
 |3. Introduction to Python | xxx | xxx | xxx | xxx | xxx |
