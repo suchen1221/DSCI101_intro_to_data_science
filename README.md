@@ -25,8 +25,8 @@ In this course, students will engage in experiential learning where they will le
 | Weekly Module | Topics | Video Lecture | Slides | Code Demo | Assignment |
 |:----------|:------------------------------|:----------|:----------|:----------|:----------|
 |1. Introduction  | <ul><li> what is data science</li> <li>data science pipeline</li> <li>ethics in data science </li></ul> | 
-<ul><li>(Intro2DS_01_01.mp4)[https://github.com/suchen1221/DSCI101_intro_to_data_science/blob/main/videos_lectures/Intro2DS_01_01.mp4.zip]
-  </li> <li>(Intro2DS_01_02.mp4)[https://github.com/suchen1221/DSCI101_intro_to_data_science/blob/main/videos_lectures/Intro2DS_01_02.mp4.zip]</li></ul> | xxx | xxx | xxx |
+<ul><li>[Intro2DS_01_01.mp4](https://github.com/suchen1221/DSCI101_intro_to_data_science/blob/main/videos_lectures/Intro2DS_01_01.mp4.zip)
+  </li> <li>[Intro2DS_01_02.mp4](https://github.com/suchen1221/DSCI101_intro_to_data_science/blob/main/videos_lectures/Intro2DS_01_02.mp4.zip)</li></ul> | xxx | xxx | xxx |
 |2. Data and Questions  | <ul><li>Three types of questions that can be answered by data and data science</li> <li>where is data from: observational study vs. experiment</li></ul> | xxx | xxx | xxx | xxx |
 |3. Introduction to Python | <ul><li>tabular data and dataframe in Python</li> <li>data type and basic programming in Python</li></ul> | xxx | xxx | xxx | xxx |
 |4. Python Pandas I | <ul><li>import data from different sources</li> <li>categorical and numerical variable</li> <li>select, filter, sort, mutate a dataframe</li></ul> | xxx | xxx | xxx | xxx | xxx |
