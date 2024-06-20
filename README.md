@@ -20,12 +20,11 @@ In this course, students will engage in experiential learning where they will le
   - [OpenIntro Statistics](https://www.openintro.org/book/os/)
 - Software: Python 3 with the standard modules from an Anaconda installation such as Numpy and Matplotlib, as well as some statistics and machine learning modules.
 
-## COURSE SCHEDULE AND MATERIAL
+## COURSE SCHEDULE AND COURSE MATERIAL
 
-| Weekly Module | Topics | <a href="[https://ieeexplore.ieee.org/document/9962532](https://github.com/suchen1221/DSCI101_intro_to_data_science/tree/main/videos_lectures)" style="color:#09477E; font-weight:bold; text-decoration:none">Video Lecture </a> | Slides | Code Demo | Assignment |
+| Weekly Module | Topics | videos_lectures | lecture_slides | code_demo | lab_assignment |
 |:----------|:------------------------------|:----------|:----------|:----------|:----------|
-|1. Introduction  | <ul><li>what is data science</li> <li>data science pipeline</li> <li>ethics in data science</li></ul> | 
-<ul><li>Intro2DS_01_01.mp4</li> <li>Intro2DS_01_02.mp4</li></ul> | xxx | xxx | xxx |
+|1. Introduction  | <ul><li>what is data science</li> <li>data science pipeline</li> <li>ethics in data science</li></ul> | <ul><li>Intro2DS_01_01.mp4</li> <li>Intro2DS_01_02.mp4</li></ul> | xxx | xxx | xxx |
 |2. Data and Questions  | <ul><li>Three types of questions that can be answered by data and data science</li> <li>where is data from: observational study vs. experiment</li></ul> | xxx | xxx | xxx | xxx |
 |3. Introduction to Python | <ul><li>tabular data and dataframe in Python</li> <li>data type and basic programming in Python</li></ul> | xxx | xxx | xxx | xxx |
 |4. Python Pandas I | <ul><li>import data from different sources</li> <li>categorical and numerical variable</li> <li>select, filter, sort, mutate a dataframe</li></ul> | xxx | xxx | xxx | xxx | xxx |
