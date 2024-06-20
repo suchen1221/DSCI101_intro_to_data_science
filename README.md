@@ -21,3 +21,20 @@ In this course, students will engage in experiential learning where they will le
 - Software: Python 3 with the standard modules from an Anaconda installation such as Numpy and Matplotlib, as well as some statistics and machine learning modules.
 
 ## COURSE SCHEDULE AND MATERIAL
+| Weekly Module | Topics | Video Lecture | Slides | Code Demo | Assignment |
+|:-------|:------|:----------|:---------|:-----------|:-----------|
+|1. Introduction  | xxx | xxx | xxx | xxx | xxx |
+|2. Data and Questions   | xxx | xxx |xxx | xxx | xxx |
+|3. Introduction to Python | xxx | xxx | xxx | xxx | xxx |
+|4. Python Pandas I | xxx |xxx | xxx | xxx | xxx | xxx |
+|5. Python Pandas II | xxx |xxx |xxx | xxx | xxx | xxx |
+|6. Data Visualization | xxx |xxx |xxx | xxx | xxx | xxx |
+|7. Exploratory Data Analysis | xxx |xxx | xxx | xxx | xxx |
+|8. Midterm Exam| xxx |xxx |xxx | xxx | xxx |
+|9. Probability and Statistics | xxx | xxx | xxx | xxx | xxx |
+|10. Hypothesis Testing | xxx | xxx | xxx | xxx | xxx |
+|11. Correlation and Linear Regression | xxx | xxx | xxx | xxx | xxx |
+|12. Introduction to Machine Learning | xxx | xxx | xxx | xxx | xxx |
+|13. Decision Trees and Random Forest | xxx | xxx | xxx | xxx | xxx |
+|14. Unsupervised Learning | xxx | xxx | xxx | xxx | xxx |
+|15. Final Exam | xxx | xxx | xxx | xxx | xxx |
