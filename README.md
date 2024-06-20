@@ -14,10 +14,10 @@ In this course, students will engage in experiential learning where they will le
 - Interpret modeling results and communicate their findings to both a general and a technical audience.
 
 ## TEXTBOOK AND OTHER RESOURCES:
-●	Textbooks Recommended:
-○	 [Computational and Inferential Thinking: The Foundations of Data Science](https://inferentialthinking.com/chapters/intro)
-○	 [Principles and Techniques of Data Science](https://learningds.org/intro)
-○	 [OpenIntro Statistics](https://www.openintro.org/book/os/)
-●	Software: Python 3 with the standard modules from an Anaconda installation such as Numpy and Matplotlib, as well as some statistics and machine learning modules.
+- Textbooks Recommended:
+  - [Computational and Inferential Thinking: The Foundations of Data Science](https://inferentialthinking.com/chapters/intro)
+  - [Principles and Techniques of Data Science](https://learningds.org/intro)
+  - [OpenIntro Statistics](https://www.openintro.org/book/os/)
+- Software: Python 3 with the standard modules from an Anaconda installation such as Numpy and Matplotlib, as well as some statistics and machine learning modules.
 
 ## COURSE SCHEDULE AND MATERIAL
