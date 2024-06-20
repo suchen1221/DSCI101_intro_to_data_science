@@ -21,28 +21,10 @@ In this course, students will engage in experiential learning where they will le
 - Software: Python 3 with the standard modules from an Anaconda installation such as Numpy and Matplotlib, as well as some statistics and machine learning modules.
 
 ## COURSE SCHEDULE AND MATERIAL
-<style>
-table th:first-of-type {
-    width: 10%;
-}
-table th:nth-of-type(2) {
-    width: 50%;
-}
-table th:nth-of-type(3) {
-    width: 10%;
-}
-table th:nth-of-type(4) {
-    width: 10%;
-}
-  table th:nth-of-type(5) {
-    width: 10%;
-}
-  table th:nth-of-type(6) {
-    width: 10%;
-}
-</style>
+
 | Weekly Module | Topics | Video Lecture | Slides | Code Demo | Assignment |
 |:-------|:--------------------|:----------|:---------|:-----------|:-----------|
+|<img width=100/>|<img width=500/>|<img width=100/>|<img width=100/>|<img width=100/>|<img width=100/>|
 |1. Introduction  | <ul><li>what is data science</li> <li>data science pipeline</li></ul>  <ul><li>ethics in data science</li></ul> | xxx | xxx | xxx | xxx |
 |2. Data and Questions   | xxx | xxx |xxx | xxx | xxx |
 |3. Introduction to Python | xxx | xxx | xxx | xxx | xxx |
