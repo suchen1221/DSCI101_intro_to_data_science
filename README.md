@@ -42,9 +42,11 @@ In this course, students will engage in experiential learning where they will le
 
 ## FOR THOSE WHO INTERESTED:
 - The short video lectures only serve as high-level conceptual introduction for the topics covered in the weekly module. There are suplemental slides covered during class with more examples and discussion.
-- The code demo notebooks are incomplete on purpose for live coding session and extra coding exercises during class.
+- The code demo notebooks are incomplete on purpose, during class:
+  - the students are required to fill in the code together with the instruction for live coding sessions.
+  - then the students are required to complete the in-class coding exercise on their own, and compare solutions with the instructor. 
 - Lab 1 - 5 are designed as individual assignment, and lab 6 - 11 are designed as team assignment. However, it can be flexible based on course design and grading schemes.
-- The following material is avalible upon request, please contact me if you are interested: 
+- The following materials are avalible upon request, please contact me if you are interested: 
   - Slides in PowerPoint format with supplimental material.
   - Completed code demo notebooks.
   - Lab assignment solutions and grading rubrics.
