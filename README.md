@@ -39,3 +39,14 @@ In this course, students will engage in experiential learning where they will le
 |13. Decision Trees and Random Forest |  <ul><li>decision tree for classification </li> <li>decision tree for regression </li> <li> model ensemble and random forest </li></ul> |  <ul><li>Intro2DS_13_01.mp4</li></ul> | <ul><li>wk13_decision_trees.pdf</li></ul> | <ul><li>demo13.zip</li></ul> | <ul><li>lab10.zip</li></ul> |
 |14. Unsupervised Learning |  <ul><li>dimensionality reduction Principal Component Analysis </li> <li> clustering algorithm Kmeans</li></ul> |  <ul><li>Intro2DS_14_01.mp4</li></ul> | <ul><li>wk14_unsupervised_learning.pdf</li></ul> | <ul><li>demo14.zip</li></ul> | <ul><li>lab11.zip</li></ul> |
 |15. Final Exam | <ul><li> final review and buff time </li></ul> |  |  |  |  |
+
+## FOR THOSE WHO INTERESTED:
+- The short video lectures only serve as high-level conceptual introduction for the topics covered in the weekly module. There are suplemental slides covered during class with more examples and discussion.
+- The code demo notebooks are incomplete on purpose for live coding session and extra coding exercises during class.
+- Lab 1 - 5 are designed as individual assignment, and lab 6 - 11 are designed as team assignment. However, it can be flexible based on course design and grading schemes.
+- The following material is avalible upon request, please contact me if you are interested: 
+  - Slides in PowerPoint format with supplimental material.
+  - Completed code demo notebooks.
+  - Lab assignment solutions and grading rubrics.
+  - Sample exam solutions.
+- The case study folder is currently under construction. The purpose is to enrich course material with beginner-friendly data science projects using datasets that are real, recent and relevant. Comments and suggestions are welcome! 
